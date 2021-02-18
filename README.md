@@ -6,7 +6,7 @@
 <p align="center">
     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsabhiraj01&show_icons=true&include_all_commits=true&hide_border=true" />
     <br />
-    <img alt="Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" /> 
+    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhiraj01" /> 
 </p>
 
 ### Hi there, I'm Abhiraj Singh Tomar 👋
