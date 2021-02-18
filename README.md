@@ -4,7 +4,7 @@
 [gmail]: mailto:abhirajsinghtomar@gmail.com
 
 <p align="center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsabhiraj01&show_icons=true&include_all_commits=true&hide_border=true" />
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsabhiraj01&show_icons=true&include_all_commits=true&hide=stars,contribs" />
     <br />
     <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabhiraj01" /> 
 </p>
