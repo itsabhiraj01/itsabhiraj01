@@ -16,10 +16,4 @@ I'm a Software Developer & Linux Enthusiast(WIP) !
 - 🌱 I’m currently learning `cryptography`
 
 
-### Connect with me:
-
-[<img align="left" alt="itsabhiraj01 | Reddit" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />][reddit]
-[<img align="left" alt="itsabhiraj01 | Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="itsabhiraj01 | Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-
 <br />
