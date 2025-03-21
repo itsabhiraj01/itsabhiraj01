@@ -1,6 +1,4 @@
 <!-- List Of Websites-->
-[reddit]: https://www.reddit.com/user/itsabhiraj01
-[github]: https://www.github.com/itsabhiraj01
 [gmail]: mailto:abhirajsinghtomar@gmail.com
 
 <p align="center">
@@ -11,7 +9,7 @@
 
 ### Hi there, I'm Abhiraj Singh Tomar 👋
 
-I'm a Software Developer & Linux Enthusiast(WIP) !
+I'm a Software Developer & Linux Enthusiast!
 - 🔭 Languages known : Purescript, Javascript, Haskell, JAVA, Julia, Shell, C++
 - 🌱 I’m currently learning `cryptography`
 
